@@ -1,0 +1,2 @@
+C:/Users/igromanvTV/Desktop/job/REX-Module/vcpkg_installed/x64-windows-static/vcpkg/blds/detect_compiler/x64-windows-rel/CMakeFiles/edit_cache.dir
+C:/Users/igromanvTV/Desktop/job/REX-Module/vcpkg_installed/x64-windows-static/vcpkg/blds/detect_compiler/x64-windows-rel/CMakeFiles/rebuild_cache.dir

@@ -1,2 +1,14 @@
-# Simple-dll-project
-Simple dll project  for Roblox
+# **Simple-dll-project**
+**Simple-dll-project**  - это простой сурс dll, в нем есть все базовые функции и настройки для вашей будущей пасты. 
+
+---
+
+## :tools: Как использовать
+1. установите режим сборки на Release x64
+2. проверьте актуальность оффсетов, шафлов и энерипции
+3. билдим и инжектим
+4. Profit!
+
+---
+
+Made by REx Team for you <3
